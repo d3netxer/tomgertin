@@ -38,9 +38,3 @@ With improved conditions we un-racked the bikes and churned along towards Clewis
 During the last leg of the trip, the road started wearing us down. We were faced with uneven pavement and strong headwinds. Unfortunately, closer to our destination, we ended up being racked with a few miles left so we could check-in in time at **Clewiston High School**. After settling in most people took advantage of our down time by taking a nap. That evening we visited the Clewiston super Wal-mart to pick up any items we needed (ex. aloe, sunscreen) and to grab something to eat.
 
 The last order of business for the day was washing the vans. Two of the vans had a race to finish first. After getting the vans spick and span clean, we headed back to call it a night and rest up for tomorrow’s early ride.
-
-<div class="addtoany_share_save_container addtoany_content_bottom">
-  <div class="a2a_kit a2a_kit_size_32 addtoany_list a2a_target" id="wpa2a_21">
-    <a class="a2a_dd addtoany_share_save" href="https://www.addtoany.com/share_save"><img src="http://www.tomgertin.com/blog/wp-content/plugins/add-to-any/share_save_171_16.png" width="171" height="16" alt="Share" /></a>
-  </div>
-</div>

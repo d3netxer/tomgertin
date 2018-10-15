@@ -37,8 +37,3 @@ During the course I got to ride a Suzuki GN 125 and a Honda Rebel. Both were rea
 
 [![Suzuki DR-400 SM](http://www.tomgertin.com/blog/wp-content/uploads/2007/10/dr.png)](http://www.tomgertin.com/blog/wp-content/uploads/2007/10/dr.png "Suzuki DR-400 SM")
 
-<div class="addtoany_share_save_container addtoany_content_bottom">
-  <div class="a2a_kit a2a_kit_size_32 addtoany_list a2a_target" id="wpa2a_8">
-    <a class="a2a_dd addtoany_share_save" href="https://www.addtoany.com/share_save"><img src="http://www.tomgertin.com/blog/wp-content/plugins/add-to-any/share_save_171_16.png" width="171" height="16" alt="Share" /></a>
-  </div>
-</div>

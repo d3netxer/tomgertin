@@ -30,9 +30,3 @@ The Sequoia is a little bit more unique than your typical road bike in that it h
 I also got Specialized off-road clipless pedals and cleats. Clipless pedals allow you to clip your cleats to your pedals; this increases efficiency through a direct transfer of energy, a rigid shoe surface, and the ability to pull up on the pedal as well as push down. I guess they are called off-road because you can walk around on them when you are off your bike. They were light, comfortable, easy to attach and detach, and were quite stylish.
 
 Other stuff I had to get were a helmet, cycling gloves, frame pump, patch kit, water bottles, saddle bag, extra tubes, chamois (cycling shorts), and a cycling computer. Spokes Etc. gave me a great cd-rom that they made called 66 tips. It goes over everything you need to know about biking. I especially found the video that showed how to change a flat very helpful.
-
-<div class="addtoany_share_save_container addtoany_content_bottom">
-  <div class="a2a_kit a2a_kit_size_32 addtoany_list a2a_target" id="wpa2a_37">
-    <a class="a2a_dd addtoany_share_save" href="https://www.addtoany.com/share_save"><img src="http://www.tomgertin.com/blog/wp-content/plugins/add-to-any/share_save_171_16.png" width="171" height="16" alt="Share" /></a>
-  </div>
-</div>

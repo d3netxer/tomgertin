@@ -38,9 +38,3 @@ The LARC was one of our most exciting arrivals yet – there were hundreds of en
 After showering and a much appreciated nap, we went on to what was my favorite friendship visit of the trip so far at the **Sunrise Community of Southwest Florida.** The moment we arrived, a woman named Lisa repeatedly screamed with excitement “oh my gosh” as she met each one of us. She was our most enthusiastic supporter and wanted to dance with all of us (especially Alex Alessandro) and ‘interview’ us in front of everyone. Other clients challenged us to arm wrestling contests and a basketball game after dinner, making it a great friendship visit all around and one of the most rewarding days of Gear Up Florida.
 
 On a personal note, I’d like to thank all of my incredible sponsors for their inspiring generosity and support throughout this journey. Most of all, I am constantly amazed by the endless dedication of my mother who has helped my Push America endeavors in every possible way – thanks for everything, and I love you with all my heart. I can only hope that my journey from Ft. Myers will offer the world as much hope as yours has since you left this town so many years ago.
-
-<div class="addtoany_share_save_container addtoany_content_bottom">
-  <div class="a2a_kit a2a_kit_size_32 addtoany_list a2a_target" id="wpa2a_22">
-    <a class="a2a_dd addtoany_share_save" href="https://www.addtoany.com/share_save"><img src="http://www.tomgertin.com/blog/wp-content/plugins/add-to-any/share_save_171_16.png" width="171" height="16" alt="Share" /></a>
-  </div>
-</div>

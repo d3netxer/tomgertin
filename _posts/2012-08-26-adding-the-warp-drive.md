@@ -53,8 +53,3 @@ I bought a 512 GB Crucial M4 SSD for $400. It also is larger than my previous 32
         The speed on my laptop is amazing. It feels like a brand new machine, everything happens near instantaneously! The SSD was worth the price, and my laptop can now last me for many more years. The booting up time is fast too. The icing to the cake is that I also upgraded to OSX Mountain Lion, and Microsoft Office 2010 on my Windows partition!
       </p>
       
-      <div class="addtoany_share_save_container addtoany_content_bottom">
-        <div class="a2a_kit a2a_kit_size_32 addtoany_list a2a_target" id="wpa2a_64">
-          <a class="a2a_dd addtoany_share_save" href="https://www.addtoany.com/share_save"><img src="http://www.tomgertin.com/blog/wp-content/plugins/add-to-any/share_save_171_16.png" width="171" height="16" alt="Share" /></a>
-        </div>
-      </div>

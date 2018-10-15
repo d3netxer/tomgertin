@@ -32,9 +32,3 @@ For every type of user, spectral color schemas, otherwise known as rainbow color
 [<img class="alignnone size-medium wp-image-403" title="diverging_two_tone" src="http://www.tomgertin.com/blog/wp-content/uploads/2014/02/diverging_two_tone-300x27.png" alt="" width="300" height="27" />](http://www.tomgertin.com/blog/wp-content/uploads/2014/02/diverging_two_tone.png)
 
 Brewer gives some recommendations for people who have color vision impairment. Skipping over yellow-greens should accommodate map-readers with red-green visual impairment. I think this is a fairly straightforward rule I can remember. I also stumbled upon [Colorbrewer2.org](http://colorbrewer2.org/), a site that helps you pick appropriate color schemes. Copyrighted by Cynthia Brewer, Mark Harrower and The Pennsylvania State University. Clever play on words Cynthia! In the Bernhard paper a piece of software called [Color Oracle](http://colororacle.org/index.html) is mentioned. I installed this and think it is great. With just one button click you can quickly see how people with Deuteranopia, Protanopia, or Tritanopia see. This can be a very useful tool for cartographers creating barrier-free maps!
-
-<div class="addtoany_share_save_container addtoany_content_bottom">
-  <div class="a2a_kit a2a_kit_size_32 addtoany_list a2a_target" id="wpa2a_69">
-    <a class="a2a_dd addtoany_share_save" href="https://www.addtoany.com/share_save"><img src="http://www.tomgertin.com/blog/wp-content/plugins/add-to-any/share_save_171_16.png" width="171" height="16" alt="Share" /></a>
-  </div>
-</div>

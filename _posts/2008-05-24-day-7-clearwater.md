@@ -42,9 +42,3 @@ Our lodging for the night was hosted at **Clearwater Sailability**, located dire
 Our delicious dinner was sponsored at Shell’s later in the evening following some much needed downtime spent on the beach. Having a great seafood meal right on the beach really hit the spot, and the team even got a glance of Hulk Hogan’s wife Linda on the way out! Our shortest ride is tomorrow, and the team is anticipating the easier ride after a bit of relaxation and anticipation for our first day off!
 
 I would personally like to thank my family – for their support and love, my chapter brothers back at Michigan State – I miss all of you guys and wish you were here with myself and John Edwards on this trip, my sponsors and friends at home – thank you for believing in me and the Push America organization, and lastly to all my newfound brothers from the trip – this trip has been the ultimate experience already and it has been an honor and privilege to have grown closer to you all. God bless Pi Kappa Phi.
-
-<div class="addtoany_share_save_container addtoany_content_bottom">
-  <div class="a2a_kit a2a_kit_size_32 addtoany_list a2a_target" id="wpa2a_24">
-    <a class="a2a_dd addtoany_share_save" href="https://www.addtoany.com/share_save"><img src="http://www.tomgertin.com/blog/wp-content/plugins/add-to-any/share_save_171_16.png" width="171" height="16" alt="Share" /></a>
-  </div>
-</div>

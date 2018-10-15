@@ -34,9 +34,3 @@ Most analysts now believe we are in a recession. The average consumer will see h
 In these times having patience is the key, lay low for a while. Don’t needlessly throw your money away. It is dumb to throw your money away on a McMansion or a monster gas guzzler SUV. Instead save that money and pay off your loans. Maybe invest some money in companies that develop solar panels. If you are young you can take bigger risks. Start your own business. If you fail, you’ll have plenty of time to pick yourself back up.
 
 The sky will not fall, but the forecast looks stormy.
-
-<div class="addtoany_share_save_container addtoany_content_bottom">
-  <div class="a2a_kit a2a_kit_size_32 addtoany_list a2a_target" id="wpa2a_15">
-    <a class="a2a_dd addtoany_share_save" href="https://www.addtoany.com/share_save"><img src="http://www.tomgertin.com/blog/wp-content/plugins/add-to-any/share_save_171_16.png" width="171" height="16" alt="Share" /></a>
-  </div>
-</div>

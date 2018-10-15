@@ -38,9 +38,3 @@ The next day was all about White Water Tubing! I brought my river shoes so I was
 
   
 The next day was the highlight of the trip, the [Ommegang Beer festival](http://www.ommegang.com/?event_view_id=206&event_view=2008-08-01&mcat=3&scat=0) in Cooperstown. We got free admission because we were volunteers. I got one of the best positions in the admission tent. My job was mainly putting wristbands on other volunteers. Everybody was really friendly, before I knew it my shift was over and it was time to start sampling beers. Everybody put on their most colorful shirt and made pretzel necklaces. We were the highlight of the festival. There were 50 breweries and importers and over 200 Belgian and Belgian-style beers to choose from. What a great way to expand your palate! Great beer, great people, great music, and great beer. I highly recommend going to the Ommegang Brewery.
-
-<div class="addtoany_share_save_container addtoany_content_bottom">
-  <div class="a2a_kit a2a_kit_size_32 addtoany_list a2a_target" id="wpa2a_38">
-    <a class="a2a_dd addtoany_share_save" href="https://www.addtoany.com/share_save"><img src="http://www.tomgertin.com/blog/wp-content/plugins/add-to-any/share_save_171_16.png" width="171" height="16" alt="Share" /></a>
-  </div>
-</div>

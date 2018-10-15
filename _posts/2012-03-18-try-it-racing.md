@@ -45,10 +45,3 @@ For my second ride I got to go in the ride car with a professional driver for 5 
 
 Overall it was a really awesome exciting experience. I would like to do something similar again someday. Our safety instructor told our group that there are some pretty cool racing schools in Richmond.
 
-&nbsp;
-
-<div class="addtoany_share_save_container addtoany_content_bottom">
-  <div class="a2a_kit a2a_kit_size_32 addtoany_list a2a_target" id="wpa2a_63">
-    <a class="a2a_dd addtoany_share_save" href="https://www.addtoany.com/share_save"><img src="http://www.tomgertin.com/blog/wp-content/plugins/add-to-any/share_save_171_16.png" width="171" height="16" alt="Share" /></a>
-  </div>
-</div>

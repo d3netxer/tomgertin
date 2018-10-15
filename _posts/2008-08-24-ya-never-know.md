@@ -38,9 +38,3 @@ I was sent to one of their damage assessment places. It was an unpleasant experi
 
 
 In the end I was handed a check for $1350, and it is going straight towards school loans. I had the suspension looked at and it checked out fine. Dropping $1350 to fix cosmetic on a car worth less than $2000 doesn’t make sense. So my plan is to just keep on using it until I save up for a new car. I should still be able to sell if for a decent amount later. The Nissan 240sx is well sought after drifting car. A typical drifter wouldn’t mind cosmetic damages considering the abuse drifting cars see, dents are like battle scars. Ya never know, I might keep it myself, do the SR20det engine swap, and try out drifting myself!
-
-<div class="addtoany_share_save_container addtoany_content_bottom">
-  <div class="a2a_kit a2a_kit_size_32 addtoany_list a2a_target" id="wpa2a_39">
-    <a class="a2a_dd addtoany_share_save" href="https://www.addtoany.com/share_save"><img src="http://www.tomgertin.com/blog/wp-content/plugins/add-to-any/share_save_171_16.png" width="171" height="16" alt="Share" /></a>
-  </div>
-</div>

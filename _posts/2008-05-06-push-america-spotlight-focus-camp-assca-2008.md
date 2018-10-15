@@ -52,9 +52,3 @@ The Pergolas on the Bocce Ball courts turned out really nice! They&#8217;ll also
 At the end of the week it was amazing to look back and marvel at all the work we had completed. I&#8217;m sure that the 30 X 40 accessible deck we built will gets lots of use this summer!
 
 [<img class="alignnone size-full wp-image-78" title="end" src="http://www.tomgertin.com/blog/wp-content/uploads/2008/05/end.png" alt="Team photo" width="500" height="342" />](http://www.tomgertin.com/blog/wp-content/uploads/2008/05/end.png)
-
-<div class="addtoany_share_save_container addtoany_content_bottom">
-  <div class="a2a_kit a2a_kit_size_32 addtoany_list a2a_target" id="wpa2a_19">
-    <a class="a2a_dd addtoany_share_save" href="https://www.addtoany.com/share_save"><img src="http://www.tomgertin.com/blog/wp-content/plugins/add-to-any/share_save_171_16.png" width="171" height="16" alt="Share" /></a>
-  </div>
-</div>

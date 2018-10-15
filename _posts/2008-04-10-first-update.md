@@ -34,9 +34,3 @@ I am even trying out direct marketing using [Click2Mail](http://www.click2mail.c
 [<img class="alignnone size-full wp-image-73" title="guf_post2" src="http://www.tomgertin.com/blog/wp-content/uploads/2008/04/guf_post2.png" alt="" width="500" height="341" />](http://www.tomgertin.com/blog/wp-content/uploads/2008/04/guf_post2.png)
 
 I have yet a lot of fundraising to do. I created a preliminary contact list and will start calling people everyday. I will create a Facebook group within the next few days. There are also a bunch of other ideas I have that I might implement. Next week will be one of my busiest fundraising weeks. I feel that donations will really start flooding in soon.
-
-<div class="addtoany_share_save_container addtoany_content_bottom">
-  <div class="a2a_kit a2a_kit_size_32 addtoany_list a2a_target" id="wpa2a_17">
-    <a class="a2a_dd addtoany_share_save" href="https://www.addtoany.com/share_save"><img src="http://www.tomgertin.com/blog/wp-content/plugins/add-to-any/share_save_171_16.png" width="171" height="16" alt="Share" /></a>
-  </div>
-</div>

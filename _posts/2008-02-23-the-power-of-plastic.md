@@ -36,9 +36,3 @@ Other fun credit card facts:
 - The black American Express does exist, unfortunately American Express is not accepted everywhere you want to be
 
 - I can’t wait when the day comes when we can pay for all our goods using biometric scanners!
-
-<div class="addtoany_share_save_container addtoany_content_bottom">
-  <div class="a2a_kit a2a_kit_size_32 addtoany_list a2a_target" id="wpa2a_12">
-    <a class="a2a_dd addtoany_share_save" href="https://www.addtoany.com/share_save"><img src="http://www.tomgertin.com/blog/wp-content/plugins/add-to-any/share_save_171_16.png" width="171" height="16" alt="Share" /></a>
-  </div>
-</div>

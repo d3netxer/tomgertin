@@ -26,9 +26,3 @@ So what to write about, and what exactly is the purpose of this blog? Well I&#82
 I did happen to hear that blogs get more readership if they focus on a specific topic. So hopefully one day I will start another blog with a narrower focus. Any suggestions are welcome!
 
 Be forewarned. These postings will be somewhat sporadic and be likely influenced by far-flung inspirations.
-
-<div class="addtoany_share_save_container addtoany_content_bottom">
-  <div class="a2a_kit a2a_kit_size_32 addtoany_list a2a_target" id="wpa2a_1">
-    <a class="a2a_dd addtoany_share_save" href="https://www.addtoany.com/share_save"><img src="http://www.tomgertin.com/blog/wp-content/plugins/add-to-any/share_save_171_16.png" width="171" height="16" alt="Share" /></a>
-  </div>
-</div>

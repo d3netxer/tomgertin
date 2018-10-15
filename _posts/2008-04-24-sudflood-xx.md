@@ -24,9 +24,3 @@ This Saturday I am attending the all-day benefit music festival SUDFLOOD in Blac
 Proceeds will go to the Hokie Spirit Scholarship Fund, as well as Community Opportunities, an organization that serves people with disabilities in the New River Valley. Last year, Pi Kappa Phi donated more than $6,300 to the Hokie Spirit Scholarship Fund and hopes to top that this year. I’m really excited about going to Sudflood this weekend, it’s really fun and laid back. I’ll spend the day reconnecting with friends, listening to good music, and its all for a good cause.
 
 [<img class="alignnone size-medium wp-image-75" title="SUDFLOOD" src="http://www.tomgertin.com/blog/wp-content/uploads/2008/04/picture-11-300x188.png" alt="Carbon Leaf Rocks the House" width="300" height="188" />](http://www.tomgertin.com/blog/wp-content/uploads/2008/04/picture-11.png)
-
-<div class="addtoany_share_save_container addtoany_content_bottom">
-  <div class="a2a_kit a2a_kit_size_32 addtoany_list a2a_target" id="wpa2a_18">
-    <a class="a2a_dd addtoany_share_save" href="https://www.addtoany.com/share_save"><img src="http://www.tomgertin.com/blog/wp-content/plugins/add-to-any/share_save_171_16.png" width="171" height="16" alt="Share" /></a>
-  </div>
-</div>

@@ -41,9 +41,3 @@ Our team is called Looking Glass. We are creating software that can extract mean
 DARPA is experimenting on the feasibility of effective software design and development in a short-fuse, ‘crucible-style’ living and working environment. I have heard some chatter around the office that we might be lab rats in some type of social experiment.
 
 There are lots of resources at our disposal some amazing mentors to help guide us. This is important as the objectives are not well defined on purpose, it seems like they really don’t want to risk constraining us. So far I have been working many hours and learning a ton. I feel like I need to work twice as hard in order to stand out amongst the other teams. At the same time this project is more of a collaborative effort and everyone has been really friendly and supportive so far. There are six teams total, and I am surrounded by a lot of talent; from nuclear physicists to digital signal experts to artists.
-
-<div class="addtoany_share_save_container addtoany_content_bottom">
-  <div class="a2a_kit a2a_kit_size_32 addtoany_list a2a_target" id="wpa2a_66">
-    <a class="a2a_dd addtoany_share_save" href="https://www.addtoany.com/share_save"><img src="http://www.tomgertin.com/blog/wp-content/plugins/add-to-any/share_save_171_16.png" width="171" height="16" alt="Share" /></a>
-  </div>
-</div>

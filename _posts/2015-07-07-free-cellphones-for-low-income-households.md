@@ -70,9 +70,3 @@ Lifeline Program for Low-Income Consumers. (n.d.). Retrieved July 6, 2015, from 
 Malter, J. (2012, October 26). Who gets rich off “free” government phones. Retrieved July 6, 2015, from http://money.cnn.com/2012/10/26/technology/mobile/tracfone-free-phones/index.html
 
 STATEMENT OF CHAIRMAN TOM WHEELER. (n.d.). Retrieved from http://transition.fcc.gov/Daily\_Releases/Daily\_Business/2015/db0622/FCC-15-71A2.pdf
-
-<div class="addtoany_share_save_container addtoany_content_bottom">
-  <div class="a2a_kit a2a_kit_size_32 addtoany_list a2a_target" id="wpa2a_72">
-    <a class="a2a_dd addtoany_share_save" href="https://www.addtoany.com/share_save"><img src="http://www.tomgertin.com/blog/wp-content/plugins/add-to-any/share_save_171_16.png" width="171" height="16" alt="Share" /></a>
-  </div>
-</div>

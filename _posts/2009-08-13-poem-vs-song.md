@@ -28,9 +28,3 @@ My co-worker said that it would actually easier for him to compose a song than a
 </p>
 
 Unfortunately, my co-worker refused to have his song published. It was a bright and upbeat song called _Funny Farm_. I really wish you could have heard it, it reminded me of one of the Pokémon background themes on crack.
-
-<div class="addtoany_share_save_container addtoany_content_bottom">
-  <div class="a2a_kit a2a_kit_size_32 addtoany_list a2a_target" id="wpa2a_50">
-    <a class="a2a_dd addtoany_share_save" href="https://www.addtoany.com/share_save"><img src="http://www.tomgertin.com/blog/wp-content/plugins/add-to-any/share_save_171_16.png" width="171" height="16" alt="Share" /></a>
-  </div>
-</div>

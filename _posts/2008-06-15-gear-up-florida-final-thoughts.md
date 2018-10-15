@@ -28,9 +28,3 @@ I have never been prouder to be part of Pi Kappa Phi. Being part of Gear Up Flor
 From the start of the trip I was impressed by how well it was run. Josh Sheffler, Director of Team Events started out the trip in a professional manner by presenting the policies and procedures and setting up the ground rules. Safety was stressed as the number one priority. I have to tell you I felt safer on the Florida roads than on the W&OD trail here in Virginia. We had a great crew that scouted out the route the day before each ride. On every turn a van was stopped making sure we made the right turn. A van was always ahead of the leading paceline and a van was always behind the last group of cyclists. Stations were set up about every 7 miles where we could get hydrated and get food for energy.
 
 The best thing about the trip was the friendship visits. In a typical arrival, all of the cyclists would form a double paceline. We would ride in, glimmering in the Florida sun while crowd cheered us on. We then got to interact with everybody. Everyone would welcome us with open arms. The people we met were so positive and full of life; we got as much joy from the visits as they did from us. These visits taught me the importance of seeing a person in their abilities before their disability. I now hope I can go back home, speak to family and friends and spread awareness and encourage empathy rather sympathy when engaging with people with disabilities.
-
-<div class="addtoany_share_save_container addtoany_content_bottom">
-  <div class="a2a_kit a2a_kit_size_32 addtoany_list a2a_target" id="wpa2a_36">
-    <a class="a2a_dd addtoany_share_save" href="https://www.addtoany.com/share_save"><img src="http://www.tomgertin.com/blog/wp-content/plugins/add-to-any/share_save_171_16.png" width="171" height="16" alt="Share" /></a>
-  </div>
-</div>

@@ -37,9 +37,3 @@ I really enjoyed the tour; our tour guide was really exceptional. Her stories an
 The outside view was picturesque. He designed it so the slave quarters were out of the line of sight from the patio. Outside also lay a fish pond, where it would have been stocked with fresh fish to be eaten later. Also from outside you could walk through the tunnel that lay below the house. In this tunnel Jefferson had a beer and a wine cellar. On one the side of the house near the tunnel was an icehouse. Jefferson’s workers would fill it up with many truckloads of ice during the winter and it would last most of the year.
 
 Thomas Jefferson called Monticello his essay in Architecture. It took many years to complete, and was expanded at a time to add many more rooms. His house varied considerably from his original design, as he was revising it considerably. I’m just glad I had the opportunity to view it.
-
-<div class="addtoany_share_save_container addtoany_content_bottom">
-  <div class="a2a_kit a2a_kit_size_32 addtoany_list a2a_target" id="wpa2a_51">
-    <a class="a2a_dd addtoany_share_save" href="https://www.addtoany.com/share_save"><img src="http://www.tomgertin.com/blog/wp-content/plugins/add-to-any/share_save_171_16.png" width="171" height="16" alt="Share" /></a>
-  </div>
-</div>

@@ -38,9 +38,3 @@ I was mainly turned off by Angel after his reaction to Tess confessing she wasn�
 But I’m not letting Tess of the Hook. It’s amazing how both Strong yet weak she was at the same time. At first she swore to herself she would never marry and live a hermit life of desolation after being raped. Then she became engaged to Angel, kept on telling herself she would tell him the truth, kept on rejecting him saying that she wasn’t good enough yet wouldn’t tell him why. She never had the strength to just tell him before the wedding though she had more than enough time. Yet after he left her by departing to Brazil she had the pride and strength to toil herself on the fields for hours a day earning nothing and going broke. I did think the ending was pretty good though. She let off some of that pent up anger, feeding off some of that enraged d’Uberville blood, and went out with a bang!
 
 Looking through the Internet I read that BBC actually made a 4-hour mini-series in 2008. I wouldn’t mind watching it if it becomes available in Netflix. Also a movie was made in 1979, I might watch that as well. I don’t know why but I imagined Tess being blond or dirty blond, but on the movie covers it shows her with darker hair. It probably said what color her hair was in the book, but I didn’t pick up on it. Well enough of mushy novels, my first class for this semester just started so time to get busy studying.
-
-<div class="addtoany_share_save_container addtoany_content_bottom">
-  <div class="a2a_kit a2a_kit_size_32 addtoany_list a2a_target" id="wpa2a_53">
-    <a class="a2a_dd addtoany_share_save" href="https://www.addtoany.com/share_save"><img src="http://www.tomgertin.com/blog/wp-content/plugins/add-to-any/share_save_171_16.png" width="171" height="16" alt="Share" /></a>
-  </div>
-</div>

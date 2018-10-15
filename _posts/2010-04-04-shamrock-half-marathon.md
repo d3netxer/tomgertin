@@ -41,8 +41,3 @@ The Shamrock Marathon consisted of a marathon, half-marathon, 8k, and a few othe
 
 Before the Shamrock marathon I already signed up for another half-marathon on May 16<sup>th</sup>. It is the Marine Corps Historic Half in Fredericksburg, VA. After a week of rest after the Shamrock race I started training again. My goal is to beat my previous time. I ran 13 miles yesterday on the W & OD trail and it kicked my butt, it was hot and hilly. Luckily I have still have several weeks to improve.
 
-<div class="addtoany_share_save_container addtoany_content_bottom">
-  <div class="a2a_kit a2a_kit_size_32 addtoany_list a2a_target" id="wpa2a_54">
-    <a class="a2a_dd addtoany_share_save" href="https://www.addtoany.com/share_save"><img src="http://www.tomgertin.com/blog/wp-content/plugins/add-to-any/share_save_171_16.png" width="171" height="16" alt="Share" /></a>
-  </div>
-</div>

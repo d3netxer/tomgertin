@@ -26,9 +26,3 @@ The weather is starting to get crisp and fall is in the air, that means football
 I was just able to update my fantasy football team, I’m surprised I am still in first place after last week’s debacle. Last week I tried to make some substitutions because some of my players had a bye week, but I forgot to press the submit changes button. So I was playing with only one quarterback and accidentally had the other two benched, and I also had one of my tight ends in the lineup even though he was injured. Now the 2nd place team is within 20 points of me! Luckily I learned from my mistakes and this week I am confident that my players will rack up lots of point. Check out my line-up:
 
 [<img class="alignnone size-medium wp-image-122" title="fantasy_football" src="http://www.tomgertin.com/blog/wp-content/uploads/2008/10/fantasy_football-300x228.png" alt="" width="300" height="228" />](http://www.tomgertin.com/blog/wp-content/uploads/2008/10/fantasy_football.png)
-
-<div class="addtoany_share_save_container addtoany_content_bottom">
-  <div class="a2a_kit a2a_kit_size_32 addtoany_list a2a_target" id="wpa2a_41">
-    <a class="a2a_dd addtoany_share_save" href="https://www.addtoany.com/share_save"><img src="http://www.tomgertin.com/blog/wp-content/plugins/add-to-any/share_save_171_16.png" width="171" height="16" alt="Share" /></a>
-  </div>
-</div>

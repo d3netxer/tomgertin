@@ -52,9 +52,3 @@ The Tunnel of Suprises is really cool. You get to walk through a tunnel of water
 The last video is of one of my favorite fountains, the maze of sleep. The water fountains change patterns and spout of in different times. when the fountains shut off you can try to walk in the middle without getting wet! 
 
 [maze\_of\_sleep](http://www.tomgertin.com/blog/wp-content/uploads/2009/07/maze_of_sleep.MOV)
-
-<div class="addtoany_share_save_container addtoany_content_bottom">
-  <div class="a2a_kit a2a_kit_size_32 addtoany_list a2a_target" id="wpa2a_49">
-    <a class="a2a_dd addtoany_share_save" href="https://www.addtoany.com/share_save"><img src="http://www.tomgertin.com/blog/wp-content/plugins/add-to-any/share_save_171_16.png" width="171" height="16" alt="Share" /></a>
-  </div>
-</div>

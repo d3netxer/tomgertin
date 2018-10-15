@@ -44,9 +44,3 @@ It was snowing the day before the race, fortunately it warmed up a bit for race 
 The marines did an excellent job of organizing the race and making sure everything went smoothly. It wasn’t noticeable to me that so many people were in the race, making it the 5<sup>th</sup> most popular race in the US. It was great connecting with my fellow runners after the race in Charity Village.
 
 My plan for the next few weeks is to rest a lot, and that includes eating a ton for Thanksgiving!
-
-<div class="addtoany_share_save_container addtoany_content_bottom">
-  <div class="a2a_kit a2a_kit_size_32 addtoany_list a2a_target" id="wpa2a_61">
-    <a class="a2a_dd addtoany_share_save" href="https://www.addtoany.com/share_save"><img src="http://www.tomgertin.com/blog/wp-content/plugins/add-to-any/share_save_171_16.png" width="171" height="16" alt="Share" /></a>
-  </div>
-</div>

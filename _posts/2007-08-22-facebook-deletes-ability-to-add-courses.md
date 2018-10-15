@@ -31,8 +31,3 @@ Now why would they get rid of an incredibly useful function such as this? I used
 
 The function can be replicated to a limited extent by adding an external courses application, but this doesn’t work well because collaboration features are only as useful as the number of people using it. The leading course add-on only has 71,822 total. This is a minuscule compared to the 7 million users.
 
-<div class="addtoany_share_save_container addtoany_content_bottom">
-  <div class="a2a_kit a2a_kit_size_32 addtoany_list a2a_target" id="wpa2a_6">
-    <a class="a2a_dd addtoany_share_save" href="https://www.addtoany.com/share_save"><img src="http://www.tomgertin.com/blog/wp-content/plugins/add-to-any/share_save_171_16.png" width="171" height="16" alt="Share" /></a>
-  </div>
-</div>

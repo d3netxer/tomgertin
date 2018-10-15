@@ -78,9 +78,3 @@ Verizon
 Sirius
 
 Please don’t take the companies I am listing as recommendations! Certain ones such as SunPower I won’t consider buying until at least mid Dec. CBS on the other hand I won’t consider buying after Dec 4 because that is the last day allowed to own the stock in order to get the dividend payout. Sirius is a big gamble that I might not be willing to take, yet has potential for huge rewards. In regards to Home Depot I have to look at its latest earning report that comes out later next week. Etc…
-
-<div class="addtoany_share_save_container addtoany_content_bottom">
-  <div class="a2a_kit a2a_kit_size_32 addtoany_list a2a_target" id="wpa2a_43">
-    <a class="a2a_dd addtoany_share_save" href="https://www.addtoany.com/share_save"><img src="http://www.tomgertin.com/blog/wp-content/plugins/add-to-any/share_save_171_16.png" width="171" height="16" alt="Share" /></a>
-  </div>
-</div>

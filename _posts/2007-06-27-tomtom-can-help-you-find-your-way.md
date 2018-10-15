@@ -33,8 +33,3 @@ If you pay extra for TomTom Plus services you can have extra features such as li
 
 The prices of gps devices have really come down, they used to cost twice as much a year ago. I am seeing them more in people’s cars. I will definitely consider purchasing one for my own car in the future.
 
-<div class="addtoany_share_save_container addtoany_content_bottom">
-  <div class="a2a_kit a2a_kit_size_32 addtoany_list a2a_target" id="wpa2a_4">
-    <a class="a2a_dd addtoany_share_save" href="https://www.addtoany.com/share_save"><img src="http://www.tomgertin.com/blog/wp-content/plugins/add-to-any/share_save_171_16.png" width="171" height="16" alt="Share" /></a>
-  </div>
-</div>

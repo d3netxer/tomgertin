@@ -62,9 +62,3 @@ I took scans all over my front yard, mainly of cars. The white sheet taped to th
 </div>
 
 As you can see from the bright spots in the image, it did a great job of detecting the roads and parking lots in the scene.
-
-<div class="addtoany_share_save_container addtoany_content_bottom">
-  <div class="a2a_kit a2a_kit_size_32 addtoany_list a2a_target" id="wpa2a_57">
-    <a class="a2a_dd addtoany_share_save" href="https://www.addtoany.com/share_save"><img src="http://www.tomgertin.com/blog/wp-content/plugins/add-to-any/share_save_171_16.png" width="171" height="16" alt="Share" /></a>
-  </div>
-</div>

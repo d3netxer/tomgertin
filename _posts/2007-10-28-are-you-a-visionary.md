@@ -37,8 +37,3 @@ Neuroscience is showing promise as a significant tool to help architects scienti
   
 The underlying principle of blending neuroscience and architecture comes from the discovery that the adult brain is more plastic, or changeable, than previously thought. Enriching both behavioral and environmental factors has been shown to improve cognition and alter the brain in animal models, including stimulating the birth of new neurons throughout adult life in some main structures. If this is true, the buildings where people spend most of their time can influence the fundamental structure of the brain, and therefore affect people’s thoughts and behaviors in either positive or negative ways.
 
-<div class="addtoany_share_save_container addtoany_content_bottom">
-  <div class="a2a_kit a2a_kit_size_32 addtoany_list a2a_target" id="wpa2a_9">
-    <a class="a2a_dd addtoany_share_save" href="https://www.addtoany.com/share_save"><img src="http://www.tomgertin.com/blog/wp-content/plugins/add-to-any/share_save_171_16.png" width="171" height="16" alt="Share" /></a>
-  </div>
-</div>

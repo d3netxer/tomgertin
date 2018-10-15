@@ -25,8 +25,3 @@ This is a program I created that finds the shortest route of a network. The user
 
 This was my final project this semester for my Spatial Data Structures class. I had a lot of free time in November. I ended up spending most of it on this program, another program that processes filters on images for my Imagery Interpretation class, and a Facebook Birthday app that I should complete any day now. RouteFinder in its original form is a standalone Java program. I just converted it to an applet. Doing that and posting it online was actually a little painful. Oh well, the semester’s over and I have a few weeks to relax until next semester. Oh, and see Avatar if you have a chance during the Holidays.
 
-<div class="addtoany_share_save_container addtoany_content_bottom">
-  <div class="a2a_kit a2a_kit_size_32 addtoany_list a2a_target" id="wpa2a_52">
-    <a class="a2a_dd addtoany_share_save" href="https://www.addtoany.com/share_save"><img src="http://www.tomgertin.com/blog/wp-content/plugins/add-to-any/share_save_171_16.png" width="171" height="16" alt="Share" /></a>
-  </div>
-</div>
