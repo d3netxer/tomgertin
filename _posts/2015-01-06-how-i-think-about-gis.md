@@ -42,7 +42,7 @@ Some important topics in GIScience include data collection, spatial data structu
 GIS professionals use Google Maps and Google Earth because they are the best tools for what they do. They use other software as well depending on the task at hand. ESRI’s ArcGIS software has the biggest market share, but there are other types of proprietary GIS software. It is also possible to do almost any GIS task using completely free and open source GIS software. Finally, you don’t even have to be a GIS professional to contribute edits to [OpenStreetMap](http://www.openstreetmap.org), the free editable map of the world.
 
 <div id="attachment_420" style="width: 787px" class="wp-caption alignnone">
-  <a href="http://www.tomgertin.com/blog/wp-content/uploads/2015/01/walking_dead_map_screen.png"><img class="size-full wp-image-420" alt="I had to include at least one map in my GIS post. Here is a screen of my Walking Dead Twitter Map for my WebGIS class. Halloween tiles courtesy of Mapbox" src="http://www.tomgertin.com/blog/wp-content/uploads/2015/01/walking_dead_map_screen.png" width="777" height="507" /></a>
+  <a href="{{ site.baseurl }}/img/2015/01/walking_dead_map_screen.png"><img class="size-full wp-image-420" alt="I had to include at least one map in my GIS post. Here is a screen of my Walking Dead Twitter Map for my WebGIS class. Halloween tiles courtesy of Mapbox" src="http://www.tomgertin.com/blog/wp-content/uploads/2015/01/walking_dead_map_screen.png" width="777" height="507" /></a>
   
   <p class="wp-caption-text">
     I had to include at least one map in my GIS post. Here is a screen of my Walking Dead Twitter Map for my WebGIS class. Halloween tiles courtesy of Mapbox

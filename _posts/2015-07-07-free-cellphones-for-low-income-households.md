@@ -35,15 +35,11 @@ In 2008 Tracfone wireless was building a big business and the FCC agreed for the
 
 Unfortunately when steps were taken in the 2000s to open the program to mobile wireless service, controls were not taken to protect against waste, fraud, and abuse. As a result of these decisions, the program almost tripled in size from 2008 (about $784 million) to 2012(almost $2.2 billion)(“STATEMENT OF CHAIRMAN TOM WHEELER,” n.d.)
 
-&nbsp;
-
 <span style="text-decoration: underline;">Reforms</span>
 
 On January 31, 2012, the FCC adopted comprehensive reform and modernization of the Lifeline program (“Lifeline Program for Low-Income Consumers,” n.d.). The FCC implemented anti-fraud measures, increasing the use of eligibility databases to enable automated verification of consumers’ Lifeline eligibility and creating a National Lifeline Accountability Database to prevent multiple carriers from receiving support from the same subscriber. The agency said it canceled 800,000 duplicate contracts and expected to save $200 million in 2012 (Malter, 2012). These were much needed reforms as previously the FCC allowed consumers to self-certify (Ante, n.d.).
 
 This year the FCC allowed Lifeline recipients to buy broadband with their subsidy too. The amount of the subsidy will stay the same.
-
-&nbsp;
 
 <span style="text-decoration: underline;">Closing Thoughts</span>
 
