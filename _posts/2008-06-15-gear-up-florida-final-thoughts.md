@@ -19,7 +19,7 @@ author: admin
 guid: http://www.tomgertin.com/?p=105
 #permalink: /uncategorized/gear-up-florida-final-thoughts/
 ---
-[<img class="alignnone size-medium wp-image-106" title="guf_arrival" src="http://www.tomgertin.com/blog/wp-content/uploads/2008/06/guf_tallahasee-300x200.jpg" alt="" width="300" height="200" />](http://www.tomgertin.com/blog/wp-content/uploads/2008/06/guf_tallahasee.jpg)
+[<img class="alignnone size-medium wp-image-106" title="guf_arrival" src="{{ site.baseurl }}/img/2008/06/guf_tallahasee-300x200.jpg" alt="" width="300" height="200" />]({{ site.baseurl }}/img/2008/06/guf_tallahasee.jpg)
 
 It has officially been two whole weeks since I completed Gear Up Florida. I had wanted to write a post that sort of wrapped everything up a little bit earlier but I have been pretty busy since arrival. On the way home back from the airport my dad informed me that we had finally rented our house in Warrenton. This led to a busy week of packing, moving, and storing stuff. Just now I am starting to feel that I am getting back into a rhythm. Now I can breathe, relax, plan ahead, and reflect. Most importantly I can reflect on the rollercoaster ride I have been on called Gear Up Florida. It has been a great ride that went by really quickly, one that I will remember for the rest of my life. All the work and effort I have put in has been paid off many times over. I started off not quite sure if I had signed up for something I could handle. To now stand back and see what I have accomplished is really satisfying.
 

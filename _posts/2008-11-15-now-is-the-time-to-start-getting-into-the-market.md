@@ -25,7 +25,7 @@ If you have been wise enough to stay out of the stock market this year I believe
 
 Below is 5yr timeline of the S&#038;P 500:
 
-[<img class="alignnone size-full wp-image-125" title="S&P 5yr" src="http://www.tomgertin.com/blog/wp-content/uploads/2008/11/picture-1.png" alt="S&P 5yr" width="500" height="179" />](http://www.tomgertin.com/blog/wp-content/uploads/2008/11/picture-1.png)
+[<img class="alignnone size-full wp-image-125" title="S&P 5yr" src="{{ site.baseurl }}/img/2008/11/picture-1.png" alt="S&P 5yr" width="500" height="179" />]({{ site.baseurl }}/img/2008/11/picture-1.png)
 
 During the housing bubble banks and investors leveraged themselves to unprecedented levels, and hedged themselves with credit default swaps. Then mortgages started to sour, poisoning the balance sheets of banks with toxic assists, and bankrupting many institutions who made too many credit swaps. With banks in trouble, lending dried up for businesses and individuals. To settle debts many institutions had to sell shares in other companies, further depressing prices. A downward spiral commenced, cutting 30% off the market since September. On top of this business are not only being affected by a dried up credit market and lower stock prices, but from lower demand as well. Individuals are feeling the heat as their credit dries up and house prices decrease. Their purchasing power is falling dramatically and spending is decreasing. Third quarter reports have reflected this and fourth quarter reports probably will too.
 

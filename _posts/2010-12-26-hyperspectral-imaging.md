@@ -36,7 +36,7 @@ In the beginning of the semester around the time I received the final paper assi
 The scanner was a SOC 700 by Surface Optics Corporation. The system basically came into parts, the scanner and a processing computer. The images were 640 X 640, 120 bands, and utilized the spectral band from 0.43 – 0.9 microns. It was easy to initially set-up the system and start taking scans. The tricky part was saving the images to a format where I could open them in ENVI, the image processing software we used in class. Fortunately, someone at Surface Optic was able to help explain the settings to me as well as walk me through the steps in converting the radiance cube into reflectance. This was done two days before the paper was due, so luckily I was able to do the last scans in time and finish my paper!
 
 <div id="attachment_271" style="width: 234px" class="wp-caption alignnone">
-  <a href="http://www.tomgertin.com/blog/wp-content/uploads/2010/12/system.png"><img class="size-full wp-image-271" title="SOC 700" src="http://www.tomgertin.com/blog/wp-content/uploads/2010/12/system.png" alt="SOC 700" width="224" height="138" /></a>
+  <a href="{{ site.baseurl }}/img/2010/12/system.png"><img class="size-full wp-image-271" title="SOC 700" src="{{ site.baseurl }}/img/2010/12/system.png" alt="SOC 700" width="224" height="138" /></a>
   
   <p class="wp-caption-text">
     SOC 700
@@ -44,7 +44,7 @@ The scanner was a SOC 700 by Surface Optics Corporation. The system basically ca
 </div>
 
 <div id="attachment_272" style="width: 249px" class="wp-caption alignnone">
-  <a href="http://www.tomgertin.com/blog/wp-content/uploads/2010/12/cars.png"><img class="size-full wp-image-272" title="cars" src="http://www.tomgertin.com/blog/wp-content/uploads/2010/12/cars.png" alt="cars" width="239" height="138" /></a>
+  <a href="{{ site.baseurl }}/img/2010/12/cars.png"><img class="size-full wp-image-272" title="cars" src="{{ site.baseurl }}/img/2010/12/cars.png" alt="cars" width="239" height="138" /></a>
   
   <p class="wp-caption-text">
     cars
@@ -54,7 +54,7 @@ The scanner was a SOC 700 by Surface Optics Corporation. The system basically ca
 I took scans all over my front yard, mainly of cars. The white sheet taped to the cars is acting as the calibration panel. After I obtained the samples I was able to compare them to an above ground dataset I had. The results were mixed, one of the best results I had was using the asphalt spectral signature. Below is the result of using Spectral Angle Mapper:
 
 <div id="attachment_273" style="width: 165px" class="wp-caption alignnone">
-  <a href="http://www.tomgertin.com/blog/wp-content/uploads/2010/12/asphalt.png"><img class="size-full wp-image-273" title="asphalt detection" src="http://www.tomgertin.com/blog/wp-content/uploads/2010/12/asphalt.png" alt="asphalt detection" width="155" height="294" /></a>
+  <a href="{{ site.baseurl }}/img/2010/12/asphalt.png"><img class="size-full wp-image-273" title="asphalt detection" src="{{ site.baseurl }}/img/2010/12/asphalt.png" alt="asphalt detection" width="155" height="294" /></a>
   
   <p class="wp-caption-text">
     asphalt detection

@@ -24,7 +24,7 @@ Last Weekend I got to visit the White House for the first time! It was one of my
 In case you’re wondering; no I did not get to see Obama, maybe next time. I did get to see the green room, red room, blue oval room, and the dining room. It was a surreal experience just standing in the same rooms where most of our past presidents have lived. I was imagining them entertaining important diplomats and reflecting on important national issues in these rooms. The paintings and photos on the walls enthralled me; they were of the highest quality and each one told a story. The tour was well planned, even though there were many people we weren’t rushed and walked at our own pace. We left through the entrance hall, I’m glad my sister got take some photos of me at the front of the building with her blackberry!
 
 <div id="attachment_260" style="width: 310px" class="wp-caption alignnone">
-  <a href="http://www.tomgertin.com/blog/wp-content/uploads/2010/05/IMG00024-20100507-1125.jpg"><img class="size-medium wp-image-260" title="Front of White House" src="http://www.tomgertin.com/blog/wp-content/uploads/2010/05/IMG00024-20100507-1125-300x225.jpg" alt="outside at the end of the tour" width="300" height="225" /></a>
+  <a href="{{ site.baseurl }}/img/2010/05/IMG00024-20100507-1125.jpg"><img class="size-medium wp-image-260" title="Front of White House" src="{{ site.baseurl }}/img/2010/05/IMG00024-20100507-1125-300x225.jpg" alt="outside at the end of the tour" width="300" height="225" /></a>
   
   <p class="wp-caption-text">
     outside at the end of the tour

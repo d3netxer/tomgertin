@@ -27,7 +27,7 @@ I was impressed with the quick set-up time. It came with a relatively strong cha
 
 It comes pre-loaded with many POIs (points of interest). I was pleasantly surprised when it showed all of the nearby restaurants on the menu. Even my friend Peter’s restaurant El Estribo showed up.
 
-![picture-3.png](http://www.tomgertin.com/blog/wp-content/uploads/2007/06/picture-3.png)
+![picture-3.png]({{ site.baseurl }}/img/2007/06/picture-3.png)
 
 If you pay extra for TomTom Plus services you can have extra features such as live traffic and weather reports. A requirement for these services is to have a bluetooth connection through your internet-enabled cellphone. Whoah! We don’t have a Bluetooth or internet-enabled cellphone, those are expensive! But it is interesting to think what we can do if we ever get one. Another interesting feature I noticed was TomTom friends, with TomTom friends you can see wherever your friends are at if they also have the service. I doubt very many people have this service but it will probably be more ubiquitous in the future, for the good and the bad.
 

@@ -27,13 +27,13 @@ So what was the trickiest part of riding? Well, I would have to say getting used
   
 With the completion of the course I received a certificate that serves as a motorcycle license for 30 days. In addition when completing the course you are able to receive a significant deduction off of your insurance that more than makes up for the $83 cost of the course. The best thing about taking the course believe it or not is the safety training and the confidence of riding that I gained.
 
-[![Suzuki GN-125](http://www.tomgertin.com/blog/wp-content/uploads/2007/10/suzuki.png)](http://www.tomgertin.com/blog/wp-content/uploads/2007/10/suzuki.png "Suzuki GN-125")
+[![Suzuki GN-125]({{ site.baseurl }}/img/2007/10/suzuki.png)]({{ site.baseurl }}/img/2007/10/suzuki.png "Suzuki GN-125")
   
 During the course I got to ride a Suzuki GN 125 and a Honda Rebel. Both were really cool bikes. The Suzuki was one of the smallest bikes you can get, the engine is only 125 cc. The Rebel is only 250 cc, but was really powerful for me at least, especially compared with the Suzuki. I am now considering purchasing a motorcycle in the future. I am looking at the Honda rebel, Kawasaki NinjaR or the Suzuki DR-Z 400sm. They are all different kinds of bikes, the Suzuki is a dual-sport, which means it can be ridden on and off-road. Which one do you like the best? Which one do you think best fits me? Feel free to leave your comments!
   
-[![Honda Rebel](http://www.tomgertin.com/blog/wp-content/uploads/2007/10/rebel.png)](http://www.tomgertin.com/blog/wp-content/uploads/2007/10/rebel.png "Honda Rebel")
+[![Honda Rebel]({{ site.baseurl }}/img/2007/10/rebel.png)]({{ site.baseurl }}/img/2007/10/rebel.png "Honda Rebel")
 
-[![Kawasaki Ninja 250R](http://www.tomgertin.com/blog/wp-content/uploads/2007/10/ninja.png)](http://www.tomgertin.com/blog/wp-content/uploads/2007/10/ninja.png "Kawasaki Ninja 250R")
+[![Kawasaki Ninja 250R]({{ site.baseurl }}/img/2007/10/ninja.png)]({{ site.baseurl }}/img/2007/10/ninja.png "Kawasaki Ninja 250R")
 
-[![Suzuki DR-400 SM](http://www.tomgertin.com/blog/wp-content/uploads/2007/10/dr.png)](http://www.tomgertin.com/blog/wp-content/uploads/2007/10/dr.png "Suzuki DR-400 SM")
+[![Suzuki DR-400 SM]({{ site.baseurl }}/img/2007/10/dr.png)]({{ site.baseurl }}/img/2007/10/dr.png "Suzuki DR-400 SM")
 

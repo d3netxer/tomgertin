@@ -31,6 +31,6 @@ With my site updated, I could create business cards. I made the design online at
 
 I am even trying out direct marketing using [Click2Mail](http://www.click2mail.com/), part of USPS.com. Using the same address list my dad used when marketing our house action I was able to send out postcards to over 350 people. Here is the design…
 
-[<img class="alignnone size-full wp-image-73" title="guf_post2" src="http://www.tomgertin.com/blog/wp-content/uploads/2008/04/guf_post2.png" alt="" width="500" height="341" />](http://www.tomgertin.com/blog/wp-content/uploads/2008/04/guf_post2.png)
+[<img class="alignnone size-full wp-image-73" title="guf_post2" src="{{ site.baseurl }}/img/2008/04/guf_post2.png" alt="" width="500" height="341" />]({{ site.baseurl }}/img/2008/04/guf_post2.png)
 
 I have yet a lot of fundraising to do. I created a preliminary contact list and will start calling people everyday. I will create a Facebook group within the next few days. There are also a bunch of other ideas I have that I might implement. Next week will be one of my busiest fundraising weeks. I feel that donations will really start flooding in soon.

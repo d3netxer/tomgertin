@@ -29,14 +29,14 @@ After getting in my race suit, selecting the proper helmet, and receiving safety
 
 As I started driving I was in complete focus, absorbing every detail around me. The steering wheel was stiffer than I was used to. I never drove a car with such a stiff suspension; I could feel every little bump on the road. In the back of my mind, I kept on repeating to myself “Whatever you do, don’t crash!” After the first 3 laps I felt more at ease. I was a little confused when I was told right before I took off that I shouldn’t use the brakes, because letting go of the accelerator on the turns would slow the car down enough. After driving I noticed how this was true. I practiced accelerating as I reached the apex of each curve. The advantages of having the short track is that is gave me more time to practice turning. In between curves there was only little room to accelerate; yet this was all that was needed to appreciate all the power the car had. I was gripping on so tight to the steering wheel, and the suspension was so stiff, that it was really starting to tire out my shoulders. I have grown a newfound respect for professional racecar drivers now.
 
-[<img class="alignnone size-medium wp-image-375" title="me_driving" src="http://www.tomgertin.com/blog/wp-content/uploads/2012/03/me_driving-300x225.jpg" alt="" width="300" height="225" />](http://www.tomgertin.com/blog/wp-content/uploads/2012/03/me_driving.jpg)
+[<img class="alignnone size-medium wp-image-375" title="me_driving" src="{{ site.baseurl }}/img/2012/03/me_driving-300x225.jpg" alt="" width="300" height="225" />]({{ site.baseurl }}/img/2012/03/me_driving.jpg)
 
 For my second ride I got to go in the ride car with a professional driver for 5 laps. This was a whole new adventure. It amazed me how fast we passed the other two cars. We were so close that the driver could have reached out and touched the other car if he wanted to. The G-forces I experienced in the curves was crazy.
 
 &nbsp;
 
 <div id="attachment_377" style="width: 310px" class="wp-caption alignnone">
-  <a href="http://www.tomgertin.com/blog/wp-content/uploads/2012/03/rider_car.jpg"><img class="size-medium wp-image-377" title="rider_car" src="http://www.tomgertin.com/blog/wp-content/uploads/2012/03/rider_car-300x225.jpg" alt="" width="300" height="225" /></a>
+  <a href="{{ site.baseurl }}/img/2012/03/rider_car.jpg"><img class="size-medium wp-image-377" title="rider_car" src="{{ site.baseurl }}/img/2012/03/rider_car-300x225.jpg" alt="" width="300" height="225" /></a>
   
   <p class="wp-caption-text">
     ride along car

@@ -37,7 +37,7 @@ guid: http://www.tomgertin.com/?p=40
   </p>
   
   <p class="MsoNormal">
-     <o:p><img src="http://www.tomgertin.com/blog/wp-content/uploads/2007/12/korean_cell_phone.png" alt="Asian Cellphone" /></o:p>
+     <o:p><img src="{{ site.baseurl }}/img/2007/12/korean_cell_phone.png" alt="Asian Cellphone" /></o:p>
   </p>
   
   <p class="MsoNormal">
@@ -53,7 +53,7 @@ guid: http://www.tomgertin.com/?p=40
   </p>
   
   <p class="MsoNormal">
-    <span style="font-family: Verdana; color: #333333"> <o:p><span class="Apple-style-span" style="color: #000000; font-family: Georgia"><img src="http://www.tomgertin.com/blog/wp-content/uploads/2007/12/pokadex.png" alt="pokedex" /></span></o:p></span>
+    <span style="font-family: Verdana; color: #333333"> <o:p><span class="Apple-style-span" style="color: #000000; font-family: Georgia"><img src="{{ site.baseurl }}/img/2007/12/pokadex.png" alt="pokedex" /></span></o:p></span>
   </p>
   
   <p class="MsoNormal">
@@ -125,7 +125,7 @@ guid: http://www.tomgertin.com/?p=40
   </p>
   
   <p class="MsoNormal">
-     <img src="http://www.tomgertin.com/blog/wp-content/uploads/2007/12/phonebooth.png" alt="phonebooth" />
+     <img src="{{ site.baseurl }}/img/2007/12/phonebooth.png" alt="phonebooth" />
   </p>
   
   <p class="MsoNormal">

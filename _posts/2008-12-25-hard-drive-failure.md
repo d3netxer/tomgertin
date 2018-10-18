@@ -26,7 +26,7 @@ guid: http://www.tomgertin.com/?p=126
 </p>
 
 <p class="MsoNormal">
-   <a href="http://www.tomgertin.com/blog/wp-content/uploads/2008/12/harddrives.png"><img class="alignnone size-medium wp-image-127" title="harddrives" src="http://www.tomgertin.com/blog/wp-content/uploads/2008/12/harddrives-300x217.png" alt="old and new hard drives side by side" width="300" height="217" /></a>
+   <a href="{{ site.baseurl }}/img/2008/12/harddrives.png"><img class="alignnone size-medium wp-image-127" title="harddrives" src="{{ site.baseurl }}/img/2008/12/harddrives-300x217.png" alt="old and new hard drives side by side" width="300" height="217" /></a>
 </p>
 
 <p class="MsoNormal">

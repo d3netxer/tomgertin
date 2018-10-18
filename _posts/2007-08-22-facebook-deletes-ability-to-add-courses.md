@@ -25,7 +25,7 @@ I was able to customize my page rather easily. Next I wanted to add the classes 
 
 Here is their explanation:
 
-![picture-1.png](http://www.tomgertin.com/blog/wp-content/uploads/2007/08/picture-1.png)
+![picture-1.png]({{ site.baseurl }}/img/2007/08/picture-1.png)
 
 Now why would they get rid of an incredibly useful function such as this? I used to be able to add my courses and connect with many of my classmates.
 

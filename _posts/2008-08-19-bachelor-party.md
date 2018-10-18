@@ -21,7 +21,7 @@ guid: http://www.tomgertin.com/?p=112
 ---
 Last month I got to go on the bachelor party of my sister’s finance. It was a tremendous time. I have to give credit to the best man for planning a highly synchronized and well thought out itinerary. We took Friday off and left work early on Thursday to give us ample time for the trip of a lifetime. We rented the biggest RV we could get from [Cruise America](http://www.cruiseamerica.com/rent/our_vehicles/large_rv.aspx). This would be our party van, enabling us to party non-stop the whole weekend.
 
-[<img class="alignnone size-medium wp-image-113" title="rv" src="http://www.tomgertin.com/blog/wp-content/uploads/2008/08/rv-300x167.png" alt="Large RV" width="300" height="167" />](http://www.tomgertin.com/blog/wp-content/uploads/2008/08/rv.png)
+[<img class="alignnone size-medium wp-image-113" title="rv" src="{{ site.baseurl }}/img/2008/08/rv-300x167.png" alt="Large RV" width="300" height="167" />]({{ site.baseurl }}/img/2008/08/rv.png)
   
 
   
@@ -33,7 +33,7 @@ It was pretty late at this point so we couldn’t really do anything in the city
   
 The next day was all about White Water Tubing! I brought my river shoes so I was all ready to go. We all made sure to take a lot of Nalgene bottles to make we could hydrate our selves properly throughout the ride. Some of the rapids were pretty extreme, I’m glad nobody lost a limb. After tubing we played disc golf. It was my first time playing; I was told that the course wasn’t very good. There were a lot of trees in the way of the flag, and I found out I was not very good at throwing a Frisbee. Later that night we arrived at the Ommegang Brewfest. They had an RV camping section, which was really cool. That night they also played The Big Lebowski on a huge out door screen. We watched most of it then stumbled back the RV to crash for the night
 
-[<img class="alignnone size-medium wp-image-114" title="ommegang_brewfest" src="http://www.tomgertin.com/blog/wp-content/uploads/2008/08/ommegang_brewfest-300x181.png" alt="The gang" width="300" height="181" />](http://www.tomgertin.com/blog/wp-content/uploads/2008/08/ommegang_brewfest.png)
+[<img class="alignnone size-medium wp-image-114" title="ommegang_brewfest" src="{{ site.baseurl }}/img/2008/08/ommegang_brewfest-300x181.png" alt="The gang" width="300" height="181" />]({{ site.baseurl }}/img/2008/08/ommegang_brewfest.png)
   
 
   

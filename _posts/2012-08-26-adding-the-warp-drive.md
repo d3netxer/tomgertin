@@ -33,23 +33,24 @@ I am not so worried about having the retina display (2880 by 1800). My computer 
 I bought a 512 GB Crucial M4 SSD for $400. It also is larger than my previous 320GB HDD, which was almost to capacity. Installation was easy enough; the package I bought came with a laptop upgrade kit. Using the data transfer cable and included SuperDuper! software, I cloned my HDD to my SSD. I then unscrewed the cover of my laptop and replaced the hard drive (I needed to buy a Torx screwdriver for the disk mounts).That was about it! I had boot camp installed, which lets you partition your hard drive and install Windows one of your partitions. I decided not to clone my Windows partition and went for a clean install.
 
 <div style="width: 307px" class="wp-caption alignnone">
-  <a href="http://www.tomgertin.com/blog/wp-content/uploads/2012/08/Screen-Shot-2012-08-24-at-9.47.10-PM.png"><img class="size-medium wp-image-384 " title="HDD speeds" src="http://www.tomgertin.com/blog/wp-content/uploads/2012/08/Screen-Shot-2012-08-24-at-9.47.10-PM-297x300.png" alt="" width="297" height="300" /></a></dt> </dl> 
+
+  <a href="{{ site.baseurl }}/img/2012/08/Screen-Shot-2012-08-24-at-9.47.10-PM.png">
+    <img class="size-medium wp-image-384 " title="HDD speeds" src="{{ site.baseurl }}/img/2012/08/Screen-Shot-2012-08-24-at-9.47.10-PM-297x300.png" alt="" width="297" height="300" />
+  </a> 
   
-  <dl id="attachment_384" class="wp-caption alignnone" style="width: 307px;">
-    <dt class="wp-caption-dt">
-      <p class="wp-caption-text">
-        HDD speeds
-      </p></div> 
+<p>HDD speeds</p>
+
+</div>
       
-      <div id="attachment_385" style="width: 310px" class="wp-caption alignnone">
-        <a href="http://www.tomgertin.com/blog/wp-content/uploads/2012/08/Screen-Shot-2012-08-26-at-1.23.45-PM.png"><img class="size-medium wp-image-385" title="SSD speeds" src="http://www.tomgertin.com/blog/wp-content/uploads/2012/08/Screen-Shot-2012-08-26-at-1.23.45-PM-300x294.png" alt="" width="300" height="294" /></a>
-        
-        <p class="wp-caption-text">
-          SSD speeds
-        </p>
-      </div>
-      
-      <p>
-        The speed on my laptop is amazing. It feels like a brand new machine, everything happens near instantaneously! The SSD was worth the price, and my laptop can now last me for many more years. The booting up time is fast too. The icing to the cake is that I also upgraded to OSX Mountain Lion, and Microsoft Office 2010 on my Windows partition!
-      </p>
+<div id="attachment_385" style="width: 310px" class="wp-caption alignnone">
+        <a href="{{ site.baseurl }}/img/2012/08/Screen-Shot-2012-08-26-at-1.23.45-PM.png"><img class="size-medium wp-image-385" title="SSD speeds" src="{{ site.baseurl }}/img/2012/08/Screen-Shot-2012-08-26-at-1.23.45-PM-300x294.png" alt="" width="300" height="294" /></a>
+
+
+<p>SSD speeds</p>
+
+</div>
+
+<p>
+  The speed on my laptop is amazing. It feels like a brand new machine, everything happens near instantaneously! The SSD was worth the price, and my laptop can now last me for many more years. The booting up time is fast too. The icing to the cake is that I also upgraded to OSX Mountain Lion, and Microsoft Office 2010 on my Windows partition!
+</p>
       

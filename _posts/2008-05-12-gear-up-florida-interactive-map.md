@@ -23,4 +23,4 @@ Click on the map below to explore interactively my journey throughout Florida. I
 
 Other great news is that as of today I have reached a fundraising total of $2000. Thanks to all of my generous sponsors, I have reached this important milestone. It feels so great to be able to enter the trip having raised this amount. Donations are still being accepted throughout the whole two-week trek across Florida and I am still fundraising!
 
-<a title="Interactive Route Map" href="http://pushamerica.org/events/routemap/?show_guf=yes&start_guf=yes" target="_blank"><img class="alignnone size-full wp-image-83" title="Gear Up Florida Route Map" src="http://www.tomgertin.com/blog/wp-content/uploads/2008/05/picture-1.png" alt="Route Map (click to access interactive map)" width="430" height="376" /></a>
+<a title="Interactive Route Map" href="http://pushamerica.org/events/routemap/?show_guf=yes&start_guf=yes" target="_blank"><img class="alignnone size-full wp-image-83" title="Gear Up Florida Route Map" src="{{ site.baseurl }}/img/2008/05/picture-1.png" alt="Route Map (click to access interactive map)" width="430" height="376" /></a>

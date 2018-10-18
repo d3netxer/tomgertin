@@ -32,7 +32,7 @@ categories:
 The Marine Corps marathon I ran this past Sunday was a great success. I am entering the recovery phase with a great sense of accomplishment. I completed the marathon in 3 hours, 29 minutes, and 31 seconds. Not too shabby. More importantly, with the help of family and friends I reached my goal of raising over $1500 to support people with disabilities!
 
 <div id="attachment_336" style="width: 310px" class="wp-caption alignnone">
-  <a href="http://www.tomgertin.com/blog/wp-content/uploads/2011/11/mcm_start.jpg"><img class="size-medium wp-image-336" title="mcm_start" src="http://www.tomgertin.com/blog/wp-content/uploads/2011/11/mcm_start-300x168.jpg" alt="" width="300" height="168" /></a>
+  <a href="{{ site.baseurl }}/img/2011/11/mcm_start.jpg"><img class="size-medium wp-image-336" title="mcm_start" src="{{ site.baseurl }}/img/2011/11/mcm_start-300x168.jpg" alt="" width="300" height="168" /></a>
   
   <p class="wp-caption-text">
     start of the race

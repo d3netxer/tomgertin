@@ -21,7 +21,7 @@ guid: http://www.tomgertin.com/?p=230
 ---
 Recently I had a chance to visit Monticello, the home of Thomas Jefferson in Charlottesville. If you have never been here, I definitively recommend that you visit soon.
 
-[<img class="alignnone size-full wp-image-231" title="monticello" src="http://www.tomgertin.com/blog/wp-content/uploads/2009/10/monticello.png" alt="monticello" width="494" height="303" />](http://www.tomgertin.com/blog/wp-content/uploads/2009/10/monticello.png)
+[<img class="alignnone size-full wp-image-231" title="monticello" src="{{ site.baseurl }}/img/2009/10/monticello.png" alt="monticello" width="494" height="303" />]({{ site.baseurl }}/img/2009/10/monticello.png)
 
 The Thomas Jefferson Visitor Center and Smith Education Center was really grand. It is actually brand-spanking new, it had its grand opening on April 15th this year. In addition to a cafe with indoor and outdoor seating, a spacious gift shop, they showed a fascinating short film about Thomas Jefferson and had a museum that contained many impressive exhibitions. My favorite exhibit was Monticello as Experiment: ‘To Try All Things’, it explored Jefferson’s use of Monticello as a laboratory for his belief that “useful knowledge” could make life more efficient and convenient.
 

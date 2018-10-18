@@ -50,7 +50,7 @@ guid: http://www.tomgertin.com/?p=129
 </p>
 
 <p class="MsoNormal">
-  <a href="http://www.tomgertin.com/blog/wp-content/uploads/2009/03/tribot.png"><img class="alignnone size-medium wp-image-130" title="tribot" src="http://www.tomgertin.com/blog/wp-content/uploads/2009/03/tribot-300x241.png" alt="" width="300" height="241" /></a>
+  <a href="{{ site.baseurl }}/img/2009/03/tribot.png"><img class="alignnone size-medium wp-image-130" title="tribot" src="{{ site.baseurl }}/img/2009/03/tribot-300x241.png" alt="" width="300" height="241" /></a>
 </p>
 
 <p class="MsoNormal">
@@ -58,7 +58,7 @@ guid: http://www.tomgertin.com/?p=129
 </p>
 
 <p class="MsoNormal">
-  <a href="http://www.tomgertin.com/blog/wp-content/uploads/2009/03/alpharex.png"><img class="alignnone size-medium wp-image-131" title="alpharex" src="http://www.tomgertin.com/blog/wp-content/uploads/2009/03/alpharex-215x300.png" alt="" width="215" height="300" /></a>
+  <a href="{{ site.baseurl }}/img/2009/03/alpharex.png"><img class="alignnone size-medium wp-image-131" title="alpharex" src="{{ site.baseurl }}/img/2009/03/alpharex-215x300.png" alt="" width="215" height="300" /></a>
 </p>
 
 <p class="MsoNormal">
@@ -71,6 +71,6 @@ guid: http://www.tomgertin.com/?p=129
 
 This final video is a demonstration of Spike. Spike is a scorpion looking robot that crawls forward until he detects an object within a certain distance of its unltrasonic sensor. In this case it is my foot. He then &#8216;stings&#8217; the object with its tail. Fortunately he deactivates when a loud sound is detected by the sound sensor located in the rear.
 
-[robospike video](http://www.tomgertin.com/blog/wp-content/uploads/2009/03/robospike.mov)
+[robospike video]({{ site.baseurl }}/img/2009/03/robospike.mov)
 
 <!--EndFragment-->

@@ -19,7 +19,7 @@ author: admin
 guid: http://www.tomgertin.com/?p=119
 #permalink: /uncategorized/my-sisters-wedding/
 ---
-[<img class="alignnone size-medium wp-image-118" title="esther_and_michael" src="http://www.tomgertin.com/blog/wp-content/uploads/2008/09/esther_and_michael-244x300.png" alt="" width="244" height="300" />](http://www.tomgertin.com/blog/wp-content/uploads/2008/09/esther_and_michael.png)
+[<img class="alignnone size-medium wp-image-118" title="esther_and_michael" src="{{ site.baseurl }}/img/2008/09/esther_and_michael-244x300.png" alt="" width="244" height="300" />]({{ site.baseurl }}/img/2008/09/esther_and_michael.png)
 
 Congratulations to Esther and Michael for getting married! Right now they are in the Lombok Island of Indonesia sipping cocktails and relaxing on the beach. The Wedding took place on August 31st. It was a Sunday and it was the day before Labor Day. Esther and Michael live in Seattle, Esther came into town about a week before the wedding and Michael came in that Friday. A lot of preparation went into the wedding; my mom and Michael’s mom did a lot of work. In the end the wedding turned out better than anyone could have expected.
 

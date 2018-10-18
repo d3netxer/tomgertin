@@ -29,7 +29,7 @@ Miami, FL
   
 Written by Tom Gertin
 
-[](http://www.tomgertin.com/blog/wp-content/uploads/2008/05/panther_hall.jpg)[<img class="alignnone size-medium wp-image-104" title="panther_hall2" src="http://www.tomgertin.com/blog/wp-content/uploads/2008/06/panther_hall-300x221.png" alt="our first team photo" width="300" height="221" />](http://www.tomgertin.com/blog/wp-content/uploads/2008/06/panther_hall.png)
+[]({{ site.baseurl }}/img/2008/05/panther_hall.jpg)[<img class="alignnone size-medium wp-image-104" title="panther_hall2" src="{{ site.baseurl }}/img/2008/06/panther_hall-300x221.png" alt="our first team photo" width="300" height="221" />]({{ site.baseurl }}/img/2008/06/panther_hall.png)
 
 Rise and shine, today began out first official bike ride of Gear Up Florida 2008 and our departure from Miami. In order to escape the worst of the Florida heat we woke up at 5:30am. After working out a few kinks in the route plan we departed at 7am. Interestingly enough, several flat tires occurred to team members within the first 10 miles. Our preparation came into play. We were in pace lines of 3 or 4 so that if something went wrong the team could easily move to the side of the road and fix the problem. Our first encounter with the Florida wild fires was 12 miles into the ride. The smoke still lingering from the fires greatly reduced visibility. We had to rack our bikes for the next 20 miles. While driving past we gazed at the bare charred trees that lined the sides of the road.
 

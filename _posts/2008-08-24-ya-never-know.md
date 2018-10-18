@@ -21,7 +21,7 @@ guid: http://www.tomgertin.com/?p=115
 ---
 You can consider yourself a good driver who drives defensively and follows all of the precautions, but the truth is that you never know when you are going to get hit. It might happen when you least expect it or when you have the least control. Earlier this month I was driving to work and I had to make a left turn onto Stonecroft Blvd from Willard Rd. The light was red so I was stopped waiting for the light to turn green. Then out of the corner of my left eye I see a car climb on top of the median as it is attempting to turn. It hits a sign on top of the median then proceeds to hit the left rear panel of my car as it is turning. All of this happened in a few seconds.
 
-[<img class="alignnone size-full wp-image-116" title="car_crash_birdeye_view" src="http://www.tomgertin.com/blog/wp-content/uploads/2008/08/picture-3.png" alt="my sketch of the crash" width="500" height="385" />](http://www.tomgertin.com/blog/wp-content/uploads/2008/08/picture-3.png)
+[<img class="alignnone size-full wp-image-116" title="car_crash_birdeye_view" src="{{ site.baseurl }}/img/2008/08/picture-3.png" alt="my sketch of the crash" width="500" height="385" />]({{ site.baseurl }}/img/2008/08/picture-3.png)
   
 
   
@@ -29,7 +29,7 @@ There wasn’t enough time to react. The first thing I did was make sure I was o
 
 I don’t have collision insurance on my car, which meant I had to deal with the other guy’s insurance company directly. If I had collision insurance that would mean my insurance company would deal with the other insurance company on my behalf. I am glad that in this case it was unmistakable whose fault it was. I mean really, a car goes over a median and hits a parked car; no way you can try to spin that. But what if things weren’t so clear-cut? They left nothing to chance when questioning me over the phone. They look for details, making sure you have no inconsistencies, looking for any holes in the story so they don’t have to pay up.
 
-[<img class="alignnone size-full wp-image-117" title="veh_damages" src="http://www.tomgertin.com/blog/wp-content/uploads/2008/08/veh_damages.png" alt="you can see the dent on the rear panel" width="500" height="289" />](http://www.tomgertin.com/blog/wp-content/uploads/2008/08/veh_damages.png)
+[<img class="alignnone size-full wp-image-117" title="veh_damages" src="{{ site.baseurl }}/img/2008/08/veh_damages.png" alt="you can see the dent on the rear panel" width="500" height="289" />]({{ site.baseurl }}/img/2008/08/veh_damages.png)
   
 
   
