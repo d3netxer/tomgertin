@@ -101,8 +101,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Tom Gertin"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : ""
+  avatar           : "/assets/images/logo.jpg"
   bio              : "Fortune Favors the Bold"
   location         : "Sterling, Virginia"
   email            :
